@@ -1,0 +1,4 @@
+@EndUserText.label: 'Financial Document Service Definition'
+define service ZFI_SD_FIN_DOC {
+  expose ZFI_CDS_FIN_DOC as FinancialDocuments;
+}
